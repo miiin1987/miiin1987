@@ -94,7 +94,7 @@ Google Calendar・スプレッドシート・ドキュメントの記録をAIが
 
 ---
 
-### レシート管理・折半精算システム
+### [レシート管理・折半精算システム](https://github.com/miiin1987/system03-line-receipt-settlement)
 
 OCRを活用したレシート管理・月末精算システム
 
@@ -105,7 +105,7 @@ OCRを活用したレシート管理・月末精算システム
 
 ---
 
-### グルメ・おでかけナレッジシステム
+### [グルメ・おでかけナレッジシステム](https://github.com/miiin1987/gourmet-knowledge)
 
 スクリーンショット解析による店舗情報管理システム
 
