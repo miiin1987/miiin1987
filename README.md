@@ -72,7 +72,7 @@ Google Calendar・スプレッドシート・ドキュメントの記録をAIが
 
 ---
 
-### Googleカレンダー活動時間自動集計システム
+### [Googleカレンダー活動時間自動集計システム](https://github.com/miiin1987/calendar-activity-tracker)
 
 活動時間を自動集計し、LINEへレポート送信するシステム
 
@@ -83,7 +83,7 @@ Google Calendar・スプレッドシート・ドキュメントの記録をAIが
 
 ---
 
-### 日報自動作成システム
+### [日報自動作成システム](https://github.com/miiin1987/daily-report-sender)
 
 活動履歴から日報を自動生成しLINEへ送信
 
